@@ -12,6 +12,6 @@ Este projeto é uma **página simples de receita de cupcake**, desenvolvida apen
 - Uso de **imagens de fundo** no CSS.  
 
 ## 📸 Preview  
-![Preview da Página](imagefiles/preview.png)  
+![Preview da Página](preview.png)  
 
 
